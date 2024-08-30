@@ -5,7 +5,7 @@ Ovaj program simulira olimpijski košarkaški turnir
 
 Početna forma tima se izračunava iz exibitions.json fajla, a kasnije povećava kada tim pobedi
 
-Umesto izračunavanja koji će tim pobediti, pravi se nasumičan broj od 70 do 90 postignutih koševa i za svaki od njih izračunao verovatnoću koji je tim dao koš, i time napravio realan finalni rezultat.
+Umesto izračunavanja koji će tim pobediti, pravi se nasumičan broj od 70 do 90 postignutih koševa i za svaki od njih izračunava verovatnoću koji je tim dao koš, i time se pravi realan finalni rezultat.
 
 ### Pravila grupne faze su:
 1. Grupna faza se sastoji od toga da svaki tim igra sa preostala tri tima iz svoje grupe. Timovi dobijaju:
