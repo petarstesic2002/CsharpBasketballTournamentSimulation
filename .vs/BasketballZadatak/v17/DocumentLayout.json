@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|c:\\users\\petar\\documents\\github\\csharpbasketballtournamentsimulation\\basketballzadatak\\businesslayer\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|solutionrelative:basketballzadatak\\businesslayer\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|c:\\users\\petar\\documents\\github\\csharpbasketballtournamentsimulation\\basketballzadatak\\businesslayer\\groupstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|solutionrelative:basketballzadatak\\businesslayer\\groupstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|c:\\users\\petar\\documents\\github\\csharpbasketballtournamentsimulation\\basketballzadatak\\businesslayer\\eliminationphase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|solutionrelative:basketballzadatak\\businesslayer\\eliminationphase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|c:\\users\\petar\\documents\\github\\csharpbasketballtournamentsimulation\\basketballzadatak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|solutionrelative:basketballzadatak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|c:\\users\\petar\\documents\\github\\csharpbasketballtournamentsimulation\\basketballzadatak\\businesslayer\\jsonextensions\\jsonext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|solutionrelative:basketballzadatak\\businesslayer\\jsonextensions\\jsonext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|c:\\users\\petar\\documents\\github\\csharpbasketballtournamentsimulation\\basketballzadatak\\businesslayer\\exhibitionresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|solutionrelative:basketballzadatak\\businesslayer\\exhibitionresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|c:\\users\\petar\\documents\\github\\csharpbasketballtournamentsimulation\\basketballzadatak\\businesslayer\\dto\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|solutionrelative:basketballzadatak\\businesslayer\\dto\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|c:\\users\\petar\\documents\\github\\csharpbasketballtournamentsimulation\\basketballzadatak\\datalayer\\groups.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|solutionrelative:basketballzadatak\\datalayer\\groups.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|c:\\users\\petar\\documents\\github\\csharpbasketballtournamentsimulation\\basketballzadatak\\businesslayer\\dto\\exhibitiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|solutionrelative:basketballzadatak\\businesslayer\\dto\\exhibitiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|c:\\users\\petar\\documents\\github\\csharpbasketballtournamentsimulation\\basketballzadatak\\datalayer\\exibitions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|solutionrelative:basketballzadatak\\datalayer\\exibitions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|c:\\users\\petar\\documents\\github\\csharpbasketballtournamentsimulation\\basketballzadatak\\businesslayer\\dto\\qfrankdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645C4318-D241-4576-88E8-8CAEEC9EFE35}|BasketballZadatak\\BasketballZadatak.csproj|solutionrelative:basketballzadatak\\businesslayer\\dto\\qfrankdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExhibitionResults.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\ExhibitionResults.cs",
+              "RelativeDocumentMoniker": "BasketballZadatak\\BusinessLayer\\ExhibitionResults.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\ExhibitionResults.cs",
+              "RelativeToolTip": "BasketballZadatak\\BusinessLayer\\ExhibitionResults.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:38:40.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExhibitionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\DTO\\ExhibitionDTO.cs",
+              "RelativeDocumentMoniker": "BasketballZadatak\\BusinessLayer\\DTO\\ExhibitionDTO.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\DTO\\ExhibitionDTO.cs",
+              "RelativeToolTip": "BasketballZadatak\\BusinessLayer\\DTO\\ExhibitionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:36:19.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\Match.cs",
+              "RelativeDocumentMoniker": "BasketballZadatak\\BusinessLayer\\Match.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\Match.cs",
+              "RelativeToolTip": "BasketballZadatak\\BusinessLayer\\Match.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:55:13.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EliminationPhase.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\EliminationPhase.cs",
+              "RelativeDocumentMoniker": "BasketballZadatak\\BusinessLayer\\EliminationPhase.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\EliminationPhase.cs",
+              "RelativeToolTip": "BasketballZadatak\\BusinessLayer\\EliminationPhase.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAADwv1oAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:34:21.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupStage.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\GroupStage.cs",
+              "RelativeDocumentMoniker": "BasketballZadatak\\BusinessLayer\\GroupStage.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\GroupStage.cs",
+              "RelativeToolTip": "BasketballZadatak\\BusinessLayer\\GroupStage.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswF4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:02:45.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\Program.cs",
+              "RelativeDocumentMoniker": "BasketballZadatak\\Program.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\Program.cs",
+              "RelativeToolTip": "BasketballZadatak\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:29:16.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonExt.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\JsonExtensions\\JsonExt.cs",
+              "RelativeDocumentMoniker": "BasketballZadatak\\BusinessLayer\\JsonExtensions\\JsonExt.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\JsonExtensions\\JsonExt.cs",
+              "RelativeToolTip": "BasketballZadatak\\BusinessLayer\\JsonExtensions\\JsonExt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:55:32.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\DTO\\TeamDTO.cs",
+              "RelativeDocumentMoniker": "BasketballZadatak\\BusinessLayer\\DTO\\TeamDTO.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\DTO\\TeamDTO.cs",
+              "RelativeToolTip": "BasketballZadatak\\BusinessLayer\\DTO\\TeamDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:33:51.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "groups.json",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\DataLayer\\groups.json",
+              "RelativeDocumentMoniker": "BasketballZadatak\\DataLayer\\groups.json",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\DataLayer\\groups.json",
+              "RelativeToolTip": "BasketballZadatak\\DataLayer\\groups.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T15:32:33.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "exibitions.json",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\DataLayer\\exibitions.json",
+              "RelativeDocumentMoniker": "BasketballZadatak\\DataLayer\\exibitions.json",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\DataLayer\\exibitions.json",
+              "RelativeToolTip": "BasketballZadatak\\DataLayer\\exibitions.json",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAIIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T15:32:29.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QFRankDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\DTO\\QFRankDTO.cs",
+              "RelativeDocumentMoniker": "BasketballZadatak\\BusinessLayer\\DTO\\QFRankDTO.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\GitHub\\CsharpBasketballTournamentSimulation\\BasketballZadatak\\BusinessLayer\\DTO\\QFRankDTO.cs",
+              "RelativeToolTip": "BasketballZadatak\\BusinessLayer\\DTO\\QFRankDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:44:08.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

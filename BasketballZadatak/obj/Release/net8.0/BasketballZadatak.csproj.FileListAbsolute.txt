@@ -1,0 +1,16 @@
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\bin\Release\net8.0\BasketballZadatak.exe
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\bin\Release\net8.0\BasketballZadatak.deps.json
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\bin\Release\net8.0\BasketballZadatak.runtimeconfig.json
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\bin\Release\net8.0\BasketballZadatak.dll
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\bin\Release\net8.0\BasketballZadatak.pdb
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\obj\Release\net8.0\BasketballZadatak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\obj\Release\net8.0\BasketballZadatak.AssemblyInfoInputs.cache
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\obj\Release\net8.0\BasketballZadatak.AssemblyInfo.cs
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\obj\Release\net8.0\BasketballZadatak.csproj.CoreCompileInputs.cache
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\obj\Release\net8.0\BasketballZadatak.dll
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\obj\Release\net8.0\refint\BasketballZadatak.dll
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\obj\Release\net8.0\BasketballZadatak.pdb
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\obj\Release\net8.0\BasketballZadatak.genruntimeconfig.cache
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\obj\Release\net8.0\ref\BasketballZadatak.dll
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\bin\Release\net8.0\DataLayer\exibitions.json
+C:\Users\Petar\source\repos\BasketballZadatak\BasketballZadatak\bin\Release\net8.0\DataLayer\groups.json
